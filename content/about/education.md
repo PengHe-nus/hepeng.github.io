@@ -21,11 +21,10 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-- experience:
-  - title: Theoretical and Computational Chemistry
-    company: National University of Singapore, NUS
-    company_url: ''
-    company_logo: org-x
+experience:
+  - Position: Research Fellow
+    Major: Theoretical and Computational Chemistry
+    University: National University of Singapore, NUS
     location: Singapore
     date_start: '2020-09-01'
     date_end: '2023-11-15'
@@ -34,28 +33,25 @@ date_format: Jan 2006
         * Basketball team
         * DJ club
 
-  - title: Condensed Matter Physics
-    company: University of Chinese Academy of Sciences, UCAS
-    company_url: ''
-    company_logo: org-x
+  - Position: Ph.D
+    Major: Condensed Matter Physics
+    University: University of Chinese Academy of Sciences, UCAS
     location: Beijing
     date_start: '2017-09-01'
     date_end: '2020-07-01'
     description: My dissertation was on X
 
-  - title: Physics
-    company: Beijing University of Chemical Technology, BUCT
-    company_url: ''
-    company_logo: org-x
+  - Position: Master
+    Major: Physics
+    University: Beijing University of Chemical Technology, BUCT
     location: Beijing
     date_start: '2014-09-01'
     date_end: '2017-07-01'
     description: My dissertation was on X
 
-   - title: Electronic Science and Technology
-    company: Beijing University of Chemical Technology, BUCT
-    company_url: ''
-    company_logo: org-x
+  - Position: Bachelor
+    Major: Electronic Science and Technology
+    University: Beijing University of Chemical Technology, BUCT
     location: Beijing
     date_start: '2010-09-01'
     date_end: '2014-07-01'
