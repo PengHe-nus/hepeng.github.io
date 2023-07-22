@@ -26,14 +26,16 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: All
-      tag: '*'
+    - name: First-principle Calculations
+      tag: FPC
+    - name: Density Functional Theory
+      tag: DFT
     - name: Machine Learning
       tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Photoelectric Device Design
+      tag: PDD
+    - name: Green Energy Catalyst Design
+      tag: GECD
 
 design:
   columns: '1'
